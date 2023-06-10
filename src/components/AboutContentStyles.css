@@ -1,0 +1,24 @@
+.about {
+    width: 100%;
+    margin: 2rem 0;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.new {
+    width: 100%;
+    height: auto;
+    margin: 2rem 0;
+    padding: 0 1rem;
+}
+
+.about h1 {
+    text-align: center;
+}
+
+.btn-container {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
