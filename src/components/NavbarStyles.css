@@ -42,7 +42,7 @@ display: flex;
         align-items: center;
         width: 100%;
         height: 100vh;
-        background:rgba(0, 0, 0, 0.9);
+        background:rgba(0, 0, 0, 0);
         position: absolute;
         top: 0;
         left: -100%;
@@ -50,21 +50,29 @@ display: flex;
         transition: 0.3s;
     }
 
-    .nav-menu.active{
-        left: 0;
-    }
-
     .nav-menu li{
-        padding: 1rem 0;
+        padding: 1rem 0
     }
 
     .nav-menu li a{
-        background-color: aliceblue;
         font-size: 2rem;
+        top: 0;
+        left: -100%;
+        transition: 0.3s;
+
+    }
+
+    .nav-menu.active{
+        left: 0;
+        background:lightgrey;
+    }
+
+    .nav-menu.active li a{
+        left: 0;
+        background:rgba(0, 0, 0, 0);
     }
 
     .side-icon{
-        background-color: aliceblue;
         display: initial;
     }
 }

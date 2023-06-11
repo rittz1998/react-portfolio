@@ -12,6 +12,7 @@ const HeroImage = () => {
         </div>
         <div className='content'>
             <p>I'm a Developer & Analyst</p>
+            <p>Sakura</p>
             <h1> Riddhi Rathod </h1>
             <div>
                 <Link to="/project" className='btn' style={{width:"200px" }}>
