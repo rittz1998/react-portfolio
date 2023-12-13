@@ -1,5 +1,5 @@
 import project1 from '../assets/Project1.jpeg';
-import project2 from '../assets/Project2.Png'
+import project2 from '../assets/Project2.jpeg';
 
 const ProjectCardData = [
     {
