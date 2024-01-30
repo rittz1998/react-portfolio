@@ -6,22 +6,22 @@ import React from 'react'
 const ContactMe = () => {
   return (
     <div className='contact-container'>
-        <Link to="https://www.linkedin.com/in/riddhi-rathod-64582b168/"
+        <Link to="https://www.linkedin.com/in/riddhi-rathod-8754b1294/"
         target='blank' className='btn' style={{width:"200px" }}>
-                My LinkedIn     
+                My LinkedIn
         </Link>
 
         <Link to="https://github.com/rittz1998" target='blank'
         className='btn' style={{width:"200px" }}>
-                My Github     
+                My Github
         </Link>
-        <Link to="mailto:riddhir158@gmail.com?subject=The%20subject%20of%20the%20mail%20is" 
+        <Link to="mailto:riddhir158@gmail.com?subject=The%20subject%20of%20the%20mail%20is"
         target='blank' className='btn' style={{width:"200px" }}>
-                Mail Me    
+                Mail Me
         </Link>
         <Link to="https://www.instagram.com/littleflowerbud/" target='blank'
         className='btn' style={{width:"200px" }}>
-                My Instagram     
+                My Instagram
         </Link>
     </div>
   )
