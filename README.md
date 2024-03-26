@@ -1,6 +1,9 @@
 # Web Application Deployed using Netlify
 https://littleflowerbud.netlify.app/
 
+<img width="957" alt="web app- portfolio" src="https://github.com/rittz1998/react-portfolio/assets/103475842/a229850e-15f4-4448-9f50-ddd140e179ff">
+
+
 Technologies Used: HTML, CSS, JavaScript, React JS, Netlify
 
 # Getting Started with Create React App
