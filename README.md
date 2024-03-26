@@ -1,3 +1,8 @@
+# Web Application Deployed using Netlify
+https://littleflowerbud.netlify.app/
+
+Technologies Used: HTML, CSS, JavaScript, React JS, Netlify
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
